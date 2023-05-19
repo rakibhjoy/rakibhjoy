@@ -1,5 +1,5 @@
 ### Hi there 👋, i am Rakib Hasan
-#### A passionate developer from Bangladesh
+#### A passionate developer
 As an experienced developer and IT professional, I possess a strong background in software development and technology management. With a passion for problem-solving and a keen eye for detail, I excel at creating efficient and scalable solutions. My expertise includes programming languages such as ASP.Net Framework, Python, C#, C++, and Java as well as proficiency in database management and cloud computing. I am a proactive team player with excellent communication skills, consistently delivering high-quality projects on time.
 
 Skills: ASP.Net Framework/Python/C#/C++/ Java/Html/Css/Php
