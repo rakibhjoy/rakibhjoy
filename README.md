@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi there, I'm Md Rakib Hasan  
 ### 💻 Software Engineer | Frontend Developer | IT Solutions Specialist
 
