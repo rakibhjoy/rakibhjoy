@@ -61,17 +61,18 @@ As a passionate and detail-oriented Software Engineer with experience in **front
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=rakibhjoy&theme=tokyonight" alt="GitHub Streak" width="500"/>  
-<img src="https://metrics.lecoq.io/rakibhjoy" alt="GitHub Metrics" width="500"/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibhjoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-rakib-hasan-522872104//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdrakibhjoyy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rakibhjoy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/rakibhjoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mdrakibhjoy@gmail.com)  
 
-<br>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rakibhjoy&theme=tokyonight" alt="Activity Graph" width="100%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhjoy)](https://github.com/anuraghazra/github-readme-stats)
 
----
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibhjoy&show_icons=true&count_private=true)  
 
-## 🏷️ Fun Fact
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibhjoy)  
 
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
+![GitHub metrics](https://metrics.lecoq.io/rakibhjoy)  
 
-<img src="https://gpvc.arturio.dev/rakibhjoy" alt="Profile views" />
+![GitHub streak stats](https://streak-stats.demolab.com/?user=rakibhjoy)  
+
+![Profile views](https://gpvc.arturio.dev/rakibhjoy)  
