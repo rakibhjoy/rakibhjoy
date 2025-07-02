@@ -38,7 +38,7 @@ With a proactive mindset and problem-solving attitude, I thrive in team environm
 ---
 ## 📫 Connect with Me
 
-- 🔗 **Portfolio:** [mdrakibhasan.netlify.app]([https://rakibhjoy.github.io/single_bit_solutions](https://mdrakibhasan.netlify.app/))  
+- 🔗 **Portfolio:** [mdrakibhasan.netlify.app](https://mdrakibhasan.netlify.app/)  
 - 💼 **LinkedIn:** [linkedin.com/in/mdrakibhjoy](https://www.linkedin.com/in/mdrakibhjoy/)  
 - 📧 **Email:** mdrakibhjoy@gmail.com  
 - 📍 **Location:** Dhaka, Bangladesh  
