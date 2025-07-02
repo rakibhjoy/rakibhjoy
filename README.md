@@ -56,17 +56,22 @@ As a passionate and detail-oriented Software Engineer with experience in **front
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibhjoy&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhjoy&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=rakibhjoy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="450"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhjoy&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=rakibhjoy&theme=tokyonight)  
-![GitHub Metrics](https://metrics.lecoq.io/rakibhjoy)  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakibhjoy&theme=tokyonight)
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=rakibhjoy&theme=tokyonight" alt="GitHub Streak" width="500"/>  
+<img src="https://metrics.lecoq.io/rakibhjoy" alt="GitHub Metrics" width="500"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rakibhjoy&theme=tokyonight" alt="Activity Graph" width="100%"/>
 
 ---
 
 ## 🏷️ Fun Fact
+
 > "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
 
-![Profile Views](https://gpvc.arturio.dev/rakibhjoy)
-```
+<img src="https://gpvc.arturio.dev/rakibhjoy" alt="Profile views" />
