@@ -32,7 +32,7 @@ class RakibHasan:
         self.research    = ["ML/DL", "Explainable AI (XAI)", "Computer Vision",
                             "Medical Imaging", "NLP", "Human-Centered AI"]
         self.goal        = "PhD Candidate in Artificial Intelligence / Machine Learning"
-        self.location    = "Kuratoli, Kuril, Dhaka, Bangladesh 🇧🇩"
+        self.location    = "Kuril, Dhaka, Bangladesh 🇧🇩"
         self.email       = "mdrakibhasancs@gmail.com"
 
     def current_focus(self):
