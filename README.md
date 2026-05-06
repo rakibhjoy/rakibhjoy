@@ -140,9 +140,12 @@ class RakibHasan:
 **🖥️ Web Designer / Frontend Developer**  
 🏢 **ISHO Limited** — Banani, Dhaka  
 📅 November 2025 – Present  
-- Building modern e-commerce UI with Laravel Blade & React  
-- Designing responsive, pixel-perfect interfaces  
-- Implementing CSS grid systems & custom component libraries  
+🎨 Visual Design: Create engaging web layouts, landing pages, and promotional assets that support digital marketing and user engagement.
+🤝 Collaborate: Work closely with backend developers, frontend engineers, marketing, and content teams to ensure smooth integration and delivery.
+📱 Optimize for All Devices: Ensure consistent performance, responsiveness, and design quality across mobile, tablet, and desktop platforms.
+🛠️ Maintain & Update: Maintain and enhance existing Django-based applications to improve performance, security, usability, and visual consistency.
+💻 Implement with Code: Develop and integrate features using Django, HTML, CSS, JavaScript, React, and related tools to deliver dynamic and interactive user experiences.
+🚀 Stay Current: Keep up with the latest Django updates, web technologies, and design best practices to continuously improve product quality and development efficiency.
 
 </td>
 </tr>
@@ -152,9 +155,13 @@ class RakibHasan:
 **⚙️ Junior Software Engineer**  
 🏢 **Single Bit Solutions**  
 📅 June 2024 – November 2025  
-- Full-stack development with PHP/Laravel & JavaScript  
-- Database design and RESTful API development  
-- Collaborated on Agile development cycles  
+💻 Develop and maintain responsive web interfaces using HTML, CSS, JavaScript, and Bootstrap.
+⚛️ Build dynamic and interactive components with React.js to enhance user experience.
+🗄️ Implement backend logic and database operations using PHP and MySQL (phpMyAdmin).
+📄 Prepare and maintain detailed Software Requirement Specifications (SRS).
+🤝 Collaborate with developers and clients to ensure smooth deployment and functionality.
+🛠️ Provide technical support and perform system debugging and updates.
+📚 Engage in hands-on training sessions to improve coding standards and teamwork.
 
 </td>
 </tr>
