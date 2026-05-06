@@ -28,7 +28,7 @@ class RakibHasan:
     def __init__(self):
         self.name        = "MD. Rakib Hasan"
         self.role        = "Web Designer / Frontend Developer @ ISHO Limited"
-        self.education   = "BSc in CSE — AIUB, Dhaka (CGPA: 3.28/4.00)"
+        self.education   = "BSc in CSE — AIUB, Dhaka"
         self.research    = ["ML/DL", "Explainable AI (XAI)", "Computer Vision",
                             "Medical Imaging", "NLP", "Human-Centered AI"]
         self.goal        = "PhD Candidate in Artificial Intelligence / Machine Learning"
@@ -38,7 +38,7 @@ class RakibHasan:
     def current_focus(self):
         return [
             "🔬 Publishing research in AI/ML & XAI",
-            "🌐 Building modern frontends at ISHO (Laravel, React)",
+            "🌐 Building modern frontends at ISHO (Html,Css,Javascript,React)",
             "📚 Preparing for PhD applications",
             "✍️  Writing papers on Fairness in NLP & Medical AI"
         ]
@@ -96,8 +96,6 @@ class RakibHasan:
 ### 🌐 Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
